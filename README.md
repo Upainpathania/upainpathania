@@ -1,3 +1,4 @@
+<img width="306" height="164" alt="Image" src="https://github.com/user-attachments/assets/d0fae22e-09db-4291-a8fa-c117a9bfee97" />
 <h1 align="center">Hi 👋, I'm Upainpathania</h1>
 <h3 align="center">Passionate to become an AI &ML Engineer</h3>
 
