@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Upainpathania</h1>
-<h3 align="center">A passionate becoming an ML Engineer</h3>
+<h3 align="center">Passionate to become an AI &ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upainpathania&label=Profile%20views&color=0e75b6&style=flat" alt="upainpathania" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on ML [Auto ML](https://automl-appapp-9f2ud68rz3ditlctgbe9gg.streamlit.app/)
 
-- 🌱 I’m currently learning **Ml and AUTO ML COMPUTER NETWORK DSA**
+- 🌱 I’m currently learning **🚀 Precision in Code | 🧠 Depth in Learning | ⚡ Vision for AI I build with **C++** ⚙️ and **Python** 🐍, focusing on writing efficient, structured, and scalable solutions. With a growing command over **Data Structures & Algorithms** 🧩, I’m strengthening the core logic that powers impactful systems. My curiosity extends into the fundamentals of computing — exploring **Computer Networks** 🌐 and **Computer Architecture** 🖥️ to understand how systems communicate, process, and perform at their best. Currently, I’m immersing myself in **Machine Learning** 🤖, with a strong interest in **AutoML** ⚡ — simplifying complex model building and making AI more accessible and powerful. ✨ I believe in consistent growth, clean execution, and meaningful innovation — transforming ideas into intelligent solutions, one step at a time. 📈 Always evolving | 🛠️ Always building | 💡 Driven by logic, guided by vision**
 
 - 📫 How to reach me **pathaaniaupain@gmail.com**
 
@@ -26,4 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=upainpathania&show_icons=true&locale=en" alt="upainpathania" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upainpathania&" alt="upainpathania" /></p>
+
 
